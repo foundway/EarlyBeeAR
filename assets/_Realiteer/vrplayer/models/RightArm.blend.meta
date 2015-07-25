@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: 41b6473efe8f54ccfa1e13a94a970a64
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ArmSkin
+    100002: Barral
+    100004: f_index_01_R
+    100006: f_index_02_R
+    100008: f_index_03_R
+    100010: f_middle_01_R
+    100012: f_middle_02_R
+    100014: f_middle_03_R
+    100016: f_pinky_01_R
+    100018: f_pinky_02_R
+    100020: f_pinky_03_R
+    100022: f_ring_01_R
+    100024: f_ring_02_R
+    100026: f_ring_03_R
+    100028: forearm_R
+    100030: Globe
+    100032: GunHandle
+    100034: GunTrigger
+    100036: hand_R
+    100038: LeftArm
+    100040: Nozzle
+    100042: //RootNode
+    100044: thumb_01_R
+    100046: thumb_02_R
+    100048: thumb_03_R
+    100050: upper_arm_R
+    400000: ArmSkin
+    400002: Barral
+    400004: f_index_01_R
+    400006: f_index_02_R
+    400008: f_index_03_R
+    400010: f_middle_01_R
+    400012: f_middle_02_R
+    400014: f_middle_03_R
+    400016: f_pinky_01_R
+    400018: f_pinky_02_R
+    400020: f_pinky_03_R
+    400022: f_ring_01_R
+    400024: f_ring_02_R
+    400026: f_ring_03_R
+    400028: forearm_R
+    400030: Globe
+    400032: GunHandle
+    400034: GunTrigger
+    400036: hand_R
+    400038: LeftArm
+    400040: Nozzle
+    400042: //RootNode
+    400044: thumb_01_R
+    400046: thumb_02_R
+    400048: thumb_03_R
+    400050: upper_arm_R
+    2300000: Barral
+    2300002: Globe
+    2300004: GunHandle
+    2300006: GunTrigger
+    2300008: Nozzle
+    3300000: Barral
+    3300002: Globe
+    3300004: GunHandle
+    3300006: GunTrigger
+    3300008: Nozzle
+    4300000: ArmSkin
+    4300002: GunHandle
+    4300004: GunTrigger
+    4300006: Barral
+    4300008: Nozzle
+    4300010: Globe
+    7400000: Default Take
+    7400002: LeftArmAction
+    7400004: LeftArmAction_001
+    7400006: Poses
+    7400008: LeftArmAction_002
+    7400010: LeftArmAction_003
+    7400012: LeftArmAction_000
+    7400014: Release
+    7400016: Trigger
+    9500000: //RootNode
+    13700000: ArmSkin
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmSkin
+        weight: 1
+      - path: GunHandle
+        weight: 1
+      - path: GunHandle/Barral
+        weight: 1
+      - path: GunHandle/Globe
+        weight: 1
+      - path: GunHandle/GunTrigger
+        weight: 1
+      - path: GunHandle/Nozzle
+        weight: 1
+      - path: LeftArm
+        weight: 1
+      - path: LeftArm/upper_arm_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_index_01_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_index_01_R/f_index_02_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_index_01_R/f_index_02_R/f_index_03_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_middle_01_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_middle_01_R/f_middle_02_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_middle_01_R/f_middle_02_R/f_middle_03_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_pinky_01_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_pinky_01_R/f_pinky_02_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_pinky_01_R/f_pinky_02_R/f_pinky_03_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_ring_01_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_ring_01_R/f_ring_02_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_ring_01_R/f_ring_02_R/f_ring_03_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/thumb_01_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R/thumb_03_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Release
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: .100000001
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmSkin
+        weight: 0
+      - path: GunHandle
+        weight: 0
+      - path: GunHandle/Barral
+        weight: 0
+      - path: GunHandle/Globe
+        weight: 0
+      - path: GunHandle/GunTrigger
+        weight: 0
+      - path: GunHandle/Nozzle
+        weight: 0
+      - path: LeftArm
+        weight: 0
+      - path: LeftArm/upper_arm_R
+        weight: 0
+      - path: LeftArm/upper_arm_R/forearm_R
+        weight: 0
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R
+        weight: 0
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_index_01_R
+        weight: 0
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_index_01_R/f_index_02_R
+        weight: 0
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_index_01_R/f_index_02_R/f_index_03_R
+        weight: 0
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_middle_01_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_middle_01_R/f_middle_02_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_middle_01_R/f_middle_02_R/f_middle_03_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_pinky_01_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_pinky_01_R/f_pinky_02_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_pinky_01_R/f_pinky_02_R/f_pinky_03_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_ring_01_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_ring_01_R/f_ring_02_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_ring_01_R/f_ring_02_R/f_ring_03_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/thumb_01_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R/thumb_03_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Trigger
+      takeName: Default Take
+      firstFrame: 2
+      lastFrame: 2.0999999
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmSkin
+        weight: 0
+      - path: GunHandle
+        weight: 0
+      - path: GunHandle/Barral
+        weight: 0
+      - path: GunHandle/Globe
+        weight: 0
+      - path: GunHandle/GunTrigger
+        weight: 0
+      - path: GunHandle/Nozzle
+        weight: 0
+      - path: LeftArm
+        weight: 0
+      - path: LeftArm/upper_arm_R
+        weight: 0
+      - path: LeftArm/upper_arm_R/forearm_R
+        weight: 0
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R
+        weight: 0
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_index_01_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_index_01_R/f_index_02_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_index_01_R/f_index_02_R/f_index_03_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_middle_01_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_middle_01_R/f_middle_02_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_middle_01_R/f_middle_02_R/f_middle_03_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_pinky_01_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_pinky_01_R/f_pinky_02_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_pinky_01_R/f_pinky_02_R/f_pinky_03_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_ring_01_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_ring_01_R/f_ring_02_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/f_ring_01_R/f_ring_02_R/f_ring_03_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/thumb_01_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: LeftArm/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R/thumb_03_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: LeftArm
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
