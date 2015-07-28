@@ -1,0 +1,149 @@
+-debug
+-target:library
+-nowarn:0169
+-out:'Temp/Assembly-CSharp.dll'
+-r:'/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll'
+-r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll'
+-r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll'
+-r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll'
+-r:'Assets/qualcomm augmented reality/Scripts/Internal/Qualcomm.Vuforia.UnityExtensions.dll'
+-r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll'
+-r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll'
+-r:'/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll'
+-r:'/Applications/Unity/Unity.app/Contents/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll'
+-define:UNITY_5_1_0
+-define:UNITY_5_1
+-define:UNITY_5
+-define:ENABLE_NEW_BUGREPORTER
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_4_6_FEATURES
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_FRAME_DEBUGGER
+-define:ENABLE_GENERICS
+-define:ENABLE_HOME_SCREEN
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_LIGHT_PROBES_LEGACY
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_PHYSICS_PHYSX3
+-define:ENABLE_PLUGIN_INSPECTOR
+-define:ENABLE_SHADOWS
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_UNET
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_VR
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_AUDIOMIXER_SUSPEND
+-define:ENABLE_EDITOR_METRICS
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:INCLUDE_IL2CPP
+-define:INCLUDE_DIRECTX12
+-define:PLATFORM_SUPPORTS_MONO
+-define:ENABLE_LOCALIZATION
+-define:UNITY_IPHONE
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_GAMECENTER
+-define:ENABLE_NETWORK
+-define:UNITY_IPHONE_API
+-define:UNITY_IOS
+-define:ENABLE_TEXTUREID_MAP
+-define:PLAYERCONNECTION_LISTENS_FIXED_PORT
+-define:DEBUGGER_LISTENS_FIXED_PORT
+-define:ENABLE_IL2CPP
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_OSX
+-define:VUFORIA_IOS_SETTINGS
+'assets/_EarlyBee/_MainLevel/Scripts/Bee.cs'
+'assets/_EarlyBee/_MainLevel/Scripts/Director.cs'
+'assets/_EarlyBee/vrplayer/Scripts/BottleModule.cs'
+'assets/_EarlyBee/vrplayer/Scripts/Cursor.cs'
+'assets/_EarlyBee/vrplayer/Scripts/GrabManager.cs'
+'assets/_EarlyBee/vrplayer/Scripts/GrabbableObject.cs'
+'assets/_EarlyBee/vrplayer/Scripts/IKLimb.cs'
+'assets/_EarlyBee/vrplayer/Scripts/LiquidBehavior.cs'
+'assets/_EarlyBee/vrplayer/Scripts/Math3D.cs'
+'assets/_EarlyBee/vrplayer/Scripts/MazeGenerator.cs'
+'assets/_EarlyBee/vrplayer/Scripts/Note.cs'
+'assets/_EarlyBee/vrplayer/Scripts/Pedometer.cs'
+'assets/_EarlyBee/vrplayer/Scripts/Player.cs'
+'assets/_EarlyBee/vrplayer/Scripts/PlayerTossModule.cs'
+'assets/_EarlyBee/vrplayer/Scripts/StareInputModule.cs'
+'assets/_EarlyBee/vrplayer/Scripts/Teleporter.cs'
+'assets/cardboard/DemoScene/Teleport.cs'
+'assets/cardboard/legacy/DemoScene/TeleportLegacyUI.cs'
+'assets/cardboard/legacy/Scripts/CardboardAndroidDevice.cs'
+'assets/cardboard/legacy/Scripts/CardboardOnGUI.cs'
+'assets/cardboard/legacy/Scripts/CardboardOnGUIMouse.cs'
+'assets/cardboard/legacy/Scripts/CardboardOnGUIWindow.cs'
+'assets/cardboard/legacy/Scripts/SkyboxMesh.cs'
+'assets/cardboard/legacy/Scripts/StereoLensFlare.cs'
+'assets/cardboard/scripts/Cardboard.cs'
+'assets/cardboard/scripts/CardboardEye.cs'
+'assets/cardboard/scripts/CardboardHead.cs'
+'assets/cardboard/scripts/CardboardProfile.cs'
+'assets/cardboard/scripts/CardboardUILayer.cs'
+'assets/cardboard/scripts/GazeInputModule.cs'
+'assets/cardboard/scripts/Pose3D.cs'
+'assets/cardboard/scripts/RadialUndistortionEffect.cs'
+'assets/cardboard/scripts/StereoController.cs'
+'assets/cardboard/scripts/VRDevices/AndroidBaseVRDevice.cs'
+'assets/cardboard/scripts/VRDevices/AndroidVRDevice.cs'
+'assets/cardboard/scripts/VRDevices/BaseVRDevice.cs'
+'assets/cardboard/scripts/VRDevices/UnityEditorDevice.cs'
+'assets/cardboard/scripts/VRDevices/VRDevice.cs'
+'assets/cardboard/scripts/VRDevices/iOSVRDevice.cs'
+'assets/qualcomm augmented reality/Scripts/BackgroundPlaneBehaviour.cs'
+'assets/qualcomm augmented reality/Scripts/CloudRecoBehaviour.cs'
+'assets/qualcomm augmented reality/Scripts/CylinderTargetBehaviour.cs'
+'assets/qualcomm augmented reality/Scripts/DataSetLoadBehaviour.cs'
+'assets/qualcomm augmented reality/Scripts/DefaultInitializationErrorHandler.cs'
+'assets/qualcomm augmented reality/Scripts/DefaultSmartTerrainEventHandler.cs'
+'assets/qualcomm augmented reality/Scripts/DefaultTrackableEventHandler.cs'
+'assets/qualcomm augmented reality/Scripts/GLErrorHandler.cs'
+'assets/qualcomm augmented reality/Scripts/HideExcessAreaBehaviour.cs'
+'assets/qualcomm augmented reality/Scripts/ImageTargetBehaviour.cs'
+'assets/qualcomm augmented reality/Scripts/Internal/AndroidUnityPlayer.cs'
+'assets/qualcomm augmented reality/Scripts/Internal/ComponentFactoryStarterBehaviour.cs'
+'assets/qualcomm augmented reality/Scripts/Internal/IOSUnityPlayer.cs'
+'assets/qualcomm augmented reality/Scripts/Internal/VuforiaBehaviourComponentFactory.cs'
+'assets/qualcomm augmented reality/Scripts/KeepAliveBehaviour.cs'
+'assets/qualcomm augmented reality/Scripts/MarkerBehaviour.cs'
+'assets/qualcomm augmented reality/Scripts/MaskOutBehaviour.cs'
+'assets/qualcomm augmented reality/Scripts/MultiTargetBehaviour.cs'
+'assets/qualcomm augmented reality/Scripts/ObjectTargetBehaviour.cs'
+'assets/qualcomm augmented reality/Scripts/PropBehaviour.cs'
+'assets/qualcomm augmented reality/Scripts/QCARBehaviour.cs'
+'assets/qualcomm augmented reality/Scripts/ReconstructionBehaviour.cs'
+'assets/qualcomm augmented reality/Scripts/ReconstructionFromTargetBehaviour.cs'
+'assets/qualcomm augmented reality/Scripts/SmartTerrainTrackerBehaviour.cs'
+'assets/qualcomm augmented reality/Scripts/SurfaceBehaviour.cs'
+'assets/qualcomm augmented reality/Scripts/TextRecoBehaviour.cs'
+'assets/qualcomm augmented reality/Scripts/TurnOffBehaviour.cs'
+'assets/qualcomm augmented reality/Scripts/TurnOffWordBehaviour.cs'
+'assets/qualcomm augmented reality/Scripts/UserDefinedTargetBuildingBehaviour.cs'
+'assets/qualcomm augmented reality/Scripts/VideoBackgroundBehaviour.cs'
+'assets/qualcomm augmented reality/Scripts/VideoTextureRenderer.cs'
+'assets/qualcomm augmented reality/Scripts/VirtualButtonBehaviour.cs'
+'assets/qualcomm augmented reality/Scripts/WebCamBehaviour.cs'
+'assets/qualcomm augmented reality/Scripts/WireframeBehaviour.cs'
+'assets/qualcomm augmented reality/Scripts/WireframeTrackableEventHandler.cs'
+'assets/qualcomm augmented reality/Scripts/WordBehaviour.cs'
+-r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
+-r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Xml.Linq.dll'

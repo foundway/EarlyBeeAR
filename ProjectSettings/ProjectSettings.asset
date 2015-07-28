@@ -10,7 +10,7 @@ PlayerSettings:
   targetResolution: 0
   accelerometerFrequency: 60
   companyName: EarlyPlan
-  productName: EarlyBeeAR-Prototype
+  productName: EarlyBeeAR
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_ShowUnitySplashScreen: 1
@@ -71,13 +71,12 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleIdentifier: com.EarlyPlan.EarlyBeeARPrototype
+  bundleIdentifier: com.EarlyPlan.EarlyBeeAR
   bundleVersion: 1.0
   preloadedAssets: []
   metroEnableIndependentInputSource: 0
   metroEnableLowLatencyPresentationAPI: 0
   xboxOneDisableKinectGpuReservation: 0
-  virtualRealitySupported: 0
   productGUID: 312b3b11f12fb4e7890cd2dfe3b534eb
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 9
@@ -258,6 +257,7 @@ PlayerSettings:
   psp2InfoBarOnStartup: 0
   psp2InfoBarColor: 0
   psmSplashimage: {fileID: 0}
+  virtualRealitySupported: 0
   spritePackerPolicy: 
   scriptingDefineSymbols:
     4: VUFORIA_IOS_SETTINGS
