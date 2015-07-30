@@ -1,0 +1,13 @@
+{
+    "group": "Realiteer",
+    "libs": [],
+    "frameworks": [],
+    "headerpaths": ["iOS/GameCenter/**"],
+    "files":   ["Localizable.strings"],
+    "folders": [],    
+    "excludes": ["^.*.meta$", "^.*.mdown$", "^.*.pdf$"],
+    "compiler_flags": [],
+    "linker_flags": [],
+    "embed_binaries": [],
+    "plist": {}
+}
